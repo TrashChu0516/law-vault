@@ -8,6 +8,12 @@ Obsidian · Markdown · YAML · Python · versioned agent skills
 >
 > Skill specs reference paths inside the private vault (for example `modules/CL1_Contract/Summaries/`). Those files are not published here; the specs are included so the method can be reviewed.
 
+## Start here
+
+**Just want to use it?** Download the [Starter Kit v1.0.0](https://github.com/TrashChu0516/law-vault/releases/tag/starter-v1.0.0) — six prompts, a minimal vault, and a browser importer. No Git, no Claude Code, no API key.
+
+The rest of this page is the engine room.
+
 ---
 
 ## The problem
