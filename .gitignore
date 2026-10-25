@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+
+# Obsidian transient state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Caches
+.smart-env/
+.trash/
+node_modules/
+
+# Private corpus — README stubs stay, contents do not
+Textbook/*
+!Textbook/README.md
+Slides/*
+!Slides/README.md
+_course_outlines/*
+!_course_outlines/README.md
+
+# Personal AI data and secrets
+copilot/
+.copilot/
+copilot_skills/
+.claude/
+.agents/
+.env
+.env.*
+*.key
+
+# Marked attempts and the filled ledger
+Grill/**/attempts/
+Grill/**/error-ledger.md
+!Grill/_templates/error-ledger.md

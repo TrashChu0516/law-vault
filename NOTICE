@@ -1,0 +1,53 @@
+Law Vault
+Copyright (c) 2026 Steven Chu
+
+This NOTICE explains what the MIT License in LICENSE covers, and what it does
+not. It is meant to be read together with the LICENSE and the README.
+
+1. What the MIT License covers
+
+The MIT License applies to the software in this repository:
+
+  - source code in _tools/;
+  - script files (.py, .sh, .js, .ps1, .cmd) anywhere in the repository;
+  - code snippets in the documentation that are marked as code.
+
+You may use, copy, modify, merge, publish, distribute, sublicense and sell
+that software, provided you keep the copyright notice and this permission
+notice. The software comes with no warranty.
+
+2. What the MIT License does not cover
+
+All other content is Copyright (c) 2026 Steven Chu, all rights reserved. This
+includes the written notes, templates, rubrics, documentation, skill prose,
+the sample case note and the sample statute note.
+
+Limited permission is granted to read, quote short excerpts from, and link to
+that written content for study, review and commentary, with attribution to
+Steven Chu and a link to this repository. Wholesale republication, redistribution
+or commercial use requires permission: open an issue in this repository.
+
+3. Third-party material
+
+  - Singapore statutes are reproduced from Singapore Statutes Online and remain
+    subject to the terms of that source.
+  - Judgments are public court documents. The sample case note reproduces the
+    judgment's structure and quotations, not a proprietary headnote.
+  - Textbook PDFs, seminar outlines, past-year papers and marked attempts are
+    not included in this repository.
+
+4. No legal advice
+
+This repository is a study system and a software portfolio. Nothing in it is
+legal advice, and it is not a substitute for advice from a qualified lawyer.
+
+5. No affiliation
+
+This project is not affiliated with, endorsed by, or sponsored by Singapore
+Management University, its faculty, or any law firm.
+
+6. No warranty
+
+The software is provided "as is", without warranty of any kind, as set out in
+the MIT License. The written content is provided for study and review, also
+without warranty.
